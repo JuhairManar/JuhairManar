@@ -4,10 +4,9 @@
 
 - 📫 How to reach me **juhairmanar@gmail.com**
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/02/24/60/00/360_F_224600069_W7lxO3jE7CZ5s3izuhIoK5uSrDUz9x6W.jpg">
-- <h3>2023 goals</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhairmanar&label=Profile%20views&color=0e75b6&style=flat" alt="juhairmanar" /> </p>
-
+-<h3>2023 goals</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juhairmanar" alt="juhairmanar" /></a> </p>
 
 
