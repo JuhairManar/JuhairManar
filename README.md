@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juhair Manar</h1>
-<h3 align="center">A passionate competitive programmer from Bangladesh</h3><br>
+<h3 align="center">A passionate competitive programmer and Django Developer from Bangladesh</h3><br>
 - 🌱 I’m currently learning **Algorithm**<br>
 
 - 📫 How to reach me **juhairmanar@gmail.com**
