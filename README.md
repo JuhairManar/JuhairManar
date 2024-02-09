@@ -20,7 +20,10 @@
 <!-- - 📝 I regularly write articles on [linkedin.com](linkedin.com) -->
 
 -  Ask me about **Python,Django,Rest Api,DSA**
--  My all Django Projects [github](https://github.com/JuhairManar/Django)
+-  Django Projects [link](https://github.com/JuhairManar/Django)
+-  JS Projects [link](https://github.com/JuhairManar/Js-Projects-Frontend)
+-  Python Projects [link](https://github.com/JuhairManar/Python-Projects)
+-  Problem Solving solutions [link]([https://github.com/JuhairManar/Python-Projects](https://github.com/JuhairManar/All-problem-solving-code))
 
 -  How to reach me **juhairmanar@gmail.com**
 
