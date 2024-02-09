@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Python,Django,Rest Api,DSA**
 
-- 📫 How to reach me **example@gmail.com**
+- 📫 How to reach me **juhairmanar@gmail.com**
 
-- 📄 Know about my experiences [docs.](docs.)
+<!-- - 📄 Know about my experiences [docs.](docs.) -->
 
 - ⚡ Fun fact **I think I am funny**
 
