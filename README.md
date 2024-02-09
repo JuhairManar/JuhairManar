@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juhair Manar</h1>
 <h3 align="center">A passionate competitive programmer and Django Developer from Bangladesh</h3><br>
 
+- 📫 How to reach me: <a href="mailto:juhairmanar@gmail.com">juhairmanar@gmail.com</a>
+<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/02/24/60/00/360_F_224600069_W7lxO3jE7CZ5s3izuhIoK5uSrDUz9x6W.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhairmanar&label=Profile%20views&color=0e75b6&style=flat" alt="juhairmanar" /> </p>
 
 - 🌱 I’m currently learning <strong>Algorithm</strong><br>
@@ -20,8 +23,6 @@
 -  My all Django Projects [github](https://github.com/JuhairManar/Django)
 
 -  How to reach me **juhairmanar@gmail.com**
-- 📫 How to reach me: <a href="mailto:juhairmanar@gmail.com">juhairmanar@gmail.com</a>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/02/24/60/00/360_F_224600069_W7lxO3jE7CZ5s3izuhIoK5uSrDUz9x6W.jpg">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juhairmanar" alt="juhairmanar" /></a> </p>
