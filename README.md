@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning **DRF,Celery,JS**
+- 🌱 I’m currently learning [DRF](https://www.django-rest-framework.org), [Celery](https://docs.celeryq.dev/en/stable/django/first-steps-with-django.html), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <!--
 - 👯 I’m looking to collaborate on [Django](github)
 -->
