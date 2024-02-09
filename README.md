@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juhair Manar</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on 
+-  I’m currently working on 
 
-- 🌱 I’m currently learning [DRF](https://www.django-rest-framework.org), [Celery](https://docs.celeryq.dev/en/stable/django/first-steps-with-django.html), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+-  I’m currently learning [DRF](https://www.django-rest-framework.org), [Celery](https://docs.celeryq.dev/en/stable/django/first-steps-with-django.html), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <!--
 - 👯 I’m looking to collaborate on [Django](github)
 -->
@@ -13,14 +13,14 @@
 
 <!-- - 📝 I regularly write articles on [linkedin.com](linkedin.com) -->
 
-- 💬 Ask me about **Python,Django,Rest Api,DSA**
-- My all Django Projects [github](https://github.com/JuhairManar/Django)
+-  Ask me about **Python,Django,Rest Api,DSA**
+-  My all Django Projects [github](https://github.com/JuhairManar/Django)
 
-- 📫 How to reach me **juhairmanar@gmail.com**
+-  How to reach me **juhairmanar@gmail.com**
 
 <!-- - 📄 Know about my experiences [docs.](docs.) -->
 
-- ⚡ Fun fact **I think I am funny**
+<!--- ⚡ Fun fact **I think I am funny** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
