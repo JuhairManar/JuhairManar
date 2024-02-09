@@ -5,9 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhairmanar&label=Profile%20views&color=0e75b6&style=flat" alt="juhairmanar" /> </p>
 
-- 📫 How to reach me: <a href="mailto:juhairmanar@gmail.com">juhairmanar@gmail.com</a>
 
-- 🌱 I’m currently learning <strong>Algorithm</strong><br>
+-  I’m currently learning <strong>Algorithm</strong><br>
 -  I’m currently working on 
 
 -  I’m currently learning [DRF](https://www.django-rest-framework.org), [Celery](https://docs.celeryq.dev/en/stable/django/first-steps-with-django.html), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
