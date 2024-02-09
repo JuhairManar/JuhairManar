@@ -30,15 +30,11 @@
 
 <h3 align="left">Online Judges</h3>
 <p align="left">
-<!--leetcode -->  
 <a href="https://www.leetcode.com/juhaiar_manar98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="juhaiar_manar98" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/juhairmanar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juhairmanar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/juhair_manar07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="juhair_manar07" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/juhair_manar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="juhair_manar" height="30" width="40" /></a>
-<!-- CSES -->
-<a href="https://cses.fi/user/145839" target="blank"><img align="center" src="https://example.com/path/to/cses-icon.svg" alt="Juhair Manar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/juhair_manar" target="blank"><img align="center" src="https://cses.fi/problemset/list/" alt="juhair_manar" height="30" width="40" /></a>
 </p>
-
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
