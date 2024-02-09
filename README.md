@@ -84,23 +84,6 @@
     </a>
 </p>
 
-<h3>Mobile App Development:</h3>
-<p align="left">
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    </a>
-</p>
-
-<h3>AI/ML:</h3>
-<p align="left">
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-    </a>
-</p>
-
 <h3>Database:</h3>
 <p align="left">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
