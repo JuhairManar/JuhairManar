@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Juhair Manar</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on - 
+- 🔭 I’m currently working on 
 
-- 🌱 I’m currently learning [DRF](https://www.django-rest-framework.org/topics/documenting-your-api/), [Celery](https://docs.celeryq.dev/en/stable/django/first-steps-with-django.html) ,[JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
+- 🌱 I’m currently learning **DRF,Celery,JS**
+<!--
 - 👯 I’m looking to collaborate on [Django](github)
+-->
+<!-- - 🤝 I’m looking for help with [company](github) -->
 
-- 🤝 I’m looking for help with [company](github)
+<!-- - 👨‍💻 All of my projects are available at [escvsdfad.com](escvsdfad.com) -->
 
-- 👨‍💻 All of my projects are available at [escvsdfad.com](escvsdfad.com)
+<!-- - 📝 I regularly write articles on [linkedin.com](linkedin.com) -->
 
-- 📝 I regularly write articles on [linkedin.com](linkedin.com)
-
-- 💬 Ask me about **Python,Django,Rest Api**
+- 💬 Ask me about **Python,Django,Rest Api,DSA**
 
 - 📫 How to reach me **example@gmail.com**
 
