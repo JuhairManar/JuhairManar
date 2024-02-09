@@ -14,6 +14,7 @@
 <!-- - 📝 I regularly write articles on [linkedin.com](linkedin.com) -->
 
 - 💬 Ask me about **Python,Django,Rest Api,DSA**
+- My all Django Projects [github](https://github.com/JuhairManar/Django)
 
 - 📫 How to reach me **juhairmanar@gmail.com**
 
