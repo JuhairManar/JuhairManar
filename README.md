@@ -23,7 +23,7 @@
 -  Django Projects [link](https://github.com/JuhairManar/Django)
 -  JS Projects [link](https://github.com/JuhairManar/Js-Projects-Frontend)
 -  Python Projects [link](https://github.com/JuhairManar/Python-Projects)
--  Problem Solving solutions [link]([https://github.com/JuhairManar/Python-Projects](https://github.com/JuhairManar/All-problem-solving-code))
+-  Problem Solving solutions [link]([https://github.com/JuhairManar/Python-Projects])
 
 -  How to reach me **juhairmanar@gmail.com**
 
