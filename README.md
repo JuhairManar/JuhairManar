@@ -42,7 +42,7 @@
 </p>
 
 ![](https://leetcard.jacoblin.cool/JUHAIR_MANAR?ext=contest)
-
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=redheadphone)
 
   
 
