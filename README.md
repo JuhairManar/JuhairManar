@@ -42,7 +42,7 @@
 <a href="https://www.codechef.com/users/juhair_manar07" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="juhair_manar07" height="30" width="40" /></a>
 </p>
 
-![](https://leetcard.jacoblin.cool/lapor?ext=contest)
+![](https://leetcard.jacoblin.cool/JUHAIR_MANAR?ext=contest)
 
 
   
