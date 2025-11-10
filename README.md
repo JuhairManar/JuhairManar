@@ -41,9 +41,8 @@
 <a href="https://www.codechef.com/users/juhair_manar07" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="juhair_manar07" height="30" width="40" /></a>
 </p>
 
-<div>
   ![](https://leetcard.jacoblin.cool/JUHAIR_MANAR?ext=contest)
-</div>
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Juhair_Manar)
 
 
   
