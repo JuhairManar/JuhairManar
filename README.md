@@ -123,7 +123,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juhairmanar&show_icons=true&locale=en" alt="juhairmanar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juhairmanar&" alt="juhairmanar" /></p>
 
 
 
