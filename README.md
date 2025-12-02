@@ -6,8 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juhairmanar&label=Profile%20views&color=0e75b6&style=flat" alt="juhairmanar" /> </p>
 
 
--  I’m currently learning <strong>Algorithm</strong><br>
--  I’m currently working on 
+-  I’m currently Working on [TLE Coders](https://www.youtube.com/@TLECoders)<br> 
 
 -  I’m currently learning [DRF](https://www.django-rest-framework.org), [Celery](https://docs.celeryq.dev/en/stable/django/first-steps-with-django.html), [JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 <!--
