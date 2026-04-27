@@ -31,14 +31,16 @@
 
 
 <h2 align="left">Online Judges</h2>
-<p align="left">
-  <a href="https://www.leetcode.com/juhaiar_manar98" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/juhairmanar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>&nbsp;
-  <a href="https://codeforces.com/profile/juhair_manar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>&nbsp;
-  <a href="https://cses.fi/user/145839" target="_blank"><img src="https://cses.fi/logo.png?1" height="30" width="40" /></a>&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/juhairmanar" target="_blank"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" height="30" width="40" /></a>&nbsp;
-  <a href="https://www.codechef.com/users/juhair_manar07" target="_blank"><img src="https://cdn.codechef.com/images/cc-logo.svg" height="30" width="40" /></a>
-</p>
+<table border="0">
+  <tr>
+    <td><a href="https://www.leetcode.com/juhaiar_manar98" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a></td>
+    <td><a href="https://www.hackerrank.com/juhairmanar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a></td>
+    <td><a href="https://codeforces.com/profile/juhair_manar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a></td>
+    <td><a href="https://cses.fi/user/145839" target="_blank"><img src="https://cses.fi/logo.png?1" alt="CSES" height="30" width="40" /></a></td>
+    <td><a href="https://auth.geeksforgeeks.org/user/juhairmanar" target="_blank"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20200716222246/Path-219.png" alt="GeeksforGeeks" height="30" width="40" /></a></td>
+    <td><a href="https://www.codechef.com/users/juhair_manar07" target="_blank"><img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" width="40" /></a></td>
+  </tr>
+</table>
 
   ![](https://leetcard.jacoblin.cool/JUHAIR_MANAR?ext=contest)
   ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Juhair_Manar)
