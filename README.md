@@ -29,8 +29,13 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=juhairmanar&theme=flat" alt="juhairmanar" />
+    <img src="https://github-profile-trophy.vercel.app/?username=juhairmanar&theme=flat&column=7&margin-w=15" alt="juhairmanar trophies" />
   </a>
+</p>
+
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/JUHAIR_MANAR?ext=contest&cache=1" alt="LeetCode Stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Juhair_Manar&theme=dark&cache=1" alt="Codeforces Stats" />
 </p>
 
 
