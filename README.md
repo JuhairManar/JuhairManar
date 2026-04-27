@@ -33,10 +33,6 @@
 
 ---
 
-### Competitive Programming Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/juhairmanar?theme=dark&font=Recursive&ext=contest)](https://leetcode.com/juhaiar_manar98)
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Juhair_Manar&theme=dark)
-
 
 <h2 align="left">Online Judges</h2>
 <table border="0">
