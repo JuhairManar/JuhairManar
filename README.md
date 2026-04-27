@@ -27,16 +27,15 @@
 -  How to reach me **juhairmanar@gmail.com**
 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=juhairmanar&theme=flat&column=7&margin-w=15" alt="juhairmanar trophies" />
-  </a>
-</p>
+<h2 align="left">Statistics & Trophies</h2>
 
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/JUHAIR_MANAR?ext=contest&cache=1" alt="LeetCode Stats" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Juhair_Manar&theme=dark&cache=1" alt="Codeforces Stats" />
-</p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=juhairmanar&theme=flat&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### Competitive Programming Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/juhairmanar?theme=dark&font=Recursive&ext=contest)](https://leetcode.com/juhaiar_manar98)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Juhair_Manar&theme=dark)
 
 
 <h2 align="left">Online Judges</h2>
